@@ -3,4 +3,4 @@
 |-------------|--------------|------------------------|----------------------|
 | Ong Zhi Zheng | ongzhizheng@gmail.com | [Clocky ⏰](https://github.com/Fogeinator/clocky) | <img src="images/zhizheng.png" width="100px" height="100px" /> |
 | Osman Utan | osmanutan.djungelskog@gmail.com | [Banana Machine 🍌](https://i.kym-cdn.com/photos/images/newsfeed/001/867/654/334.jpg) | <img src="images/djungelskog.jpg" width="100px" height="100px" /> |
-| LeeGuanSheng | guanshenghaha@gmail.com | [Banana Machine 🍌](https://i.kym-cdn.com/photos/images/newsfeed/001/867/654/334.jpg) | <img src="https://www.gamasutra.com/db_area/images/news/2018/Jun/320213/supermario64thumb1.jpg" width="100px" height="100px" /> |
+| LeeGuanSheng | guanshenghaha@gmail.com | [](https://i.kym-cdn.com/photos/images/newsfeed/001/867/654/334.jpg) | <img src="https://www.gamasutra.com/db_area/images/news/2018/Jun/320213/supermario64thumb1.jpg" width="100px" height="100px" /> |
